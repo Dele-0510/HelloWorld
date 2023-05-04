@@ -5,6 +5,6 @@ int main()
 	std::cout<<"请输入名字";
 	std::cin>>name;
 	std::cout<<"Hello!"<<name;
-	std::cout<<"It'a a C++ test program"<<name;
+	std::cout<<"It's a c++ test program"
 	return 0;
 }
