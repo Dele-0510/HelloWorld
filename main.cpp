@@ -5,6 +5,6 @@ int main()
 	std::cout<<"请输入名字";
 	std::cin>>name;
 	std::cout<<"Hello!"<<name;
-	std::cout<<"12345";
+	std::cout<<"哈哈哈哈";
 	return 0;
 }
