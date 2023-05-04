@@ -6,5 +6,6 @@ int main()
 	std::cin>>name;
 	std::cout<<"Hello!"<<name;
 	std::cout<<"It's a c++ test program"
+	std::cout<<"khuigyiujjhvuk";
 	return 0;
 }
