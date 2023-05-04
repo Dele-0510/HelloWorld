@@ -1,6 +1,9 @@
 #include<iostream>
 int main()
 {
-	std::cout<<"HelloWorld!"
+	string name;
+	std::cout<<"请输入名字";
+	std::cin>>name;
+	std::cout<<"Hello!"<<name;
 	return 0;
 }
