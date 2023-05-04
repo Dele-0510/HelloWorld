@@ -5,6 +5,11 @@ int main()
 	std::cout<<"请输入名字";
 	std::cin>>name;
 	std::cout<<"Hello!"<<name;
+<<<<<<< HEAD
+	std::cout<<"It's a c++ test program"
+	std::cout<<"khuigyiujjhvuk";
+=======
 	std::cout<<"12345";
+>>>>>>> 60d4ce0c71649bec7950866e6f9a52065f36a3be
 	return 0;
 }
